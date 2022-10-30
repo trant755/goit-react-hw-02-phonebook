@@ -1,7 +1,5 @@
-import { Formik, Field } from 'formik';
 import React, { Component } from 'react';
 import { Section } from './Seaction';
-import * as SC from './Phonebook.styled';
 import { nanoid } from 'nanoid';
 import { ContactForm } from './PhonebookForm';
 import { Contacts } from './Contacts';
